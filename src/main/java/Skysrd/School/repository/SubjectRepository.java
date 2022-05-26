@@ -1,9 +1,7 @@
-package Skysrd.school.repository;
+package Skysrd.School.repository;
 
-import Skysrd.school.domain.Subject;
-import jdk.internal.loader.AbstractClassLoaderValue;
+import Skysrd.School.domain.Subject;
 
-import javax.swing.text.html.Option;
 import java.util.List;
 import java.util.Optional;
 

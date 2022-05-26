@@ -1,7 +1,6 @@
-package Skysrd.school.repository;
+package Skysrd.School.repository;
 
-import Skysrd.school.domain.Student;
-import lombok.Builder;
+import Skysrd.School.domain.Student;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;

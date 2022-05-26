@@ -1,4 +1,4 @@
-package Skysrd.school.Config;
+package Skysrd.School.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

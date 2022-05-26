@@ -1,4 +1,4 @@
-package Skysrd.school.domain;
+package Skysrd.School.domain;
 
 import lombok.*;
 
