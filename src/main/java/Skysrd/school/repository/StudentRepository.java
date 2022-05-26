@@ -5,12 +5,13 @@ import lombok.Builder;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
+import java.util.Optional;
 
 @Repository
 public interface StudentRepository {
 
-    Student findById(Long id);
-    Student findByPhoneNumber (String phoneNumber);
+    Optional<Student> findById(Long id);
+    Optional<Student> findByPhoneNumber (String phoneNumber);
     List<Student> findAll();
 
 }
